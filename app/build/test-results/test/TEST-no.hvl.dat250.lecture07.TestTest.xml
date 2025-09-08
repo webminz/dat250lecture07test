@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="no.hvl.dat250.lecture07.TestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-09-08T12:52:57" hostname="158-37-82-26.hvl.no" time="0.01">
-  <properties/>
-  <testcase name="testInfrastrcuture()" classname="no.hvl.dat250.lecture07.TestTest" time="0.01"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
